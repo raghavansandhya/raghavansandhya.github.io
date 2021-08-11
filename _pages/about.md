@@ -10,20 +10,18 @@ redirect_from:
 
 <p style='text-align: justify;'> 
 
-Hello! Welcome to my portfolio page. I'm a generalist software engineer focused on AI adoption. As most engineers, I am here to build, fix and improve things. I get passionate at work, and excited when I see things work as designed + fix if they're <a href="images/bad-software.gif">not</a>. 
-<br>
-Be it a <text class="tooltip"><a href="portfolio/2008-wave-electricity">water-waves electricity generator</a> 
-  <span class="tooltiptext" style="width: 320px">(build in my parents garage at age 15)</span>
-</text>, <text class="tooltip"><a href="portfolio/2017-facial-emotion-dnn">facial emotion recognition DNN</a> 
-  <span class="tooltiptext" style="width: 260px">(one of my personal projects)</span>
-</text> or test software for the <text class="tooltip"><a href="/employment/2015-02-01-cern">Large Hadron Collider at CERN</a> 
-  <span class="tooltiptext" style="width: 270px">(one of my nerdiest employers)</span>
-</text>. Generally, I like working for Research & Development projects. 
-
+Hello! I am Sandhya. A	self-driven	and	enthusiastic	software	engineering	professional	passionate about	 Data	 and	 AI solutioning for	 complex	 business	 problems. I love to automating things which takes repeated manual effort and design resuable architectures and pipelines. Have experience in leading, managing, mentoring and growing large teams of software and data engineers in multiple organizations.
 </p>
 
+
 Here's a short summary of what I do professionally (also, check out [my resume](cv/)):
-- Back-End Software:
+- Coding
+  - Python and SQL
+  - Shell Scripting, Scala and R
+- Databases
+  - SQL - PostgreSQL, MySQL, Teradata, Oracle, DB2, AWS Redshift
+  - No-SQL - Cassandra, MongoDB, HBase, 
+- Data Engineering Tools:
   - REST and GraphQL,
   - go (gorilla/mux), python (Flask, Django).
 - MLOps & Data Engineering:
