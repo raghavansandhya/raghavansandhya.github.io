@@ -19,21 +19,21 @@ Here's a short summary of what I do professionally (also, check out [my resume](
   - Python and SQL
   - Shell Scripting, Scala and R
 - Databases
-  - SQL - PostgreSQL, MySQL, Teradata, Oracle, DB2, AWS Redshift
-  - No-SQL - Cassandra, MongoDB, HBase, 
-- Data Engineering Tools:
-  - REST and GraphQL,
-  - go (gorilla/mux), python (Flask, Django).
-- MLOps & Data Engineering:
-  - Docker,
-  - Airflow,
-  - MLflow, Sagemaker,
+  - SQL - PostgreSQL, MySQL, Teradata, Oracle, DB2
+  - No-SQL - Cassandra, Influx DB, MongoDB, HBase 
+- Data Engineering, ETL and Analytics Tools:
+  - Spark, Hadoop, MapReduce, Pig, Hive
+  - Apache NiFi, Kafka, Zookeeper. Yarn, Presto
+  - Ab Initio GDE, ExpressIT, MHUB, BRE, DQE
+  - Active MQ, MQTT
+- DevOps & Data Platforms:
+  - Databricks, AWS(S3, EC2, EMR, Athena, Redshift) , HortonWorks, Cloudera 
+  - Docker, Airflow, MlFlow
+  - MLflow, ,
   - AWS Suite (S3, EC2, Athena, Flink), Heroku,
-  - PostgreSQL, MongoDB,
-  - Spark, Koalas, Databricks, Dask.
 - Machine Learning & Data Science:
-  - pandas, tensorflow / keras, scikit-learn mainly for [supervised learning](images/supervised-learning.png),
-  - visulization: plotly, DASH, Streamlit, Bokeh, D3,
+  - pandas, tensorflow / keras, scikit-learn mainly for supervised learning
+  - visulization: plotly, DASH, Streamlit, ggplot, seaborn, D3
   - JavaScript for serving ML models and custom visualisation (project in progress).
 - Embedded devices ( Yes, I can blink the <span class="blinking">&#9673;</span> LED and more ):
   - connected sensor networks, embedded &harr; cloud interfaces,
