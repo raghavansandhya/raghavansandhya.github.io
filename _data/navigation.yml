@@ -3,8 +3,8 @@ main:
   - title: "Resume"
     url: /cv/
 
-  - title: "Jobs & Education"
-    url: /employment/
+  #- title: "Jobs & Education"
+  #  url: /employment/
 
   - title: "Patents"
     url: /publications/
