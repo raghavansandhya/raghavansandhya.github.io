@@ -6,6 +6,6 @@ excerpt: 'This patent protects the simulation orchestration software I developed
 date: 2020-10-01
 venue: 'US Patent Office'
 location: "USA"
-citation: 'J. Wei, S. Raghavan, <b>P. Oleniuk</b>'
+citation: 'J. Wei, <b>S. Raghavan</b>, P. Oleniuk'
 ---
 This patent protects the simulation orchestration software I developed for Virgin Hyperloop.
