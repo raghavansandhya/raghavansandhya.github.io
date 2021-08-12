@@ -5,7 +5,7 @@ type: "Conference Talk"
 permalink: /talks/2020-06-15-generative-hyperloop-spark-ai
 venue: '<a href="https://databricks.com/sparkaisummit">Spark + AI Conference </a>'
 date: 2020-06-15
-location: "Virtual, Co-author with S. Raghavan"
+location: "Virtual, Co-author with P. Olenuik"
 ---
 
 This talk is about building a data tool for system-level optimisation for Virgin Hyperloop. See [the video](https://www.youtube.com/watch?v=4yEfsfGw_N0) !
