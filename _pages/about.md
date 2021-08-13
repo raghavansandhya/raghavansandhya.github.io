@@ -10,7 +10,7 @@ redirect_from:
 
 <p style='text-align: justify;'> 
 
-Hello! I am Sandhya. A	self-driven	and	enthusiastic	software	engineering	professional	passionate about	 Data	 and	 AI solutioning for	 complex	 business	 problems. I love to automating things which takes repeated manual effort and design resuable architectures and pipelines. Have experience in leading, managing, mentoring and growing large teams of software and data engineers in multiple organizations.
+Hello! I am Sandhya. A	self-driven	and	enthusiastic	software	professional	passionate about	 Data	 and	 AI solutioning for	 complex	 business	 problems. I love to automating things which takes repeated manual effort and design resuable architectures and pipelines. Have experience in leading, managing, mentoring and growing large teams of software and data engineers in multiple organizations.
 </p>
 
 
