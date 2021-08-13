@@ -29,25 +29,21 @@ Here's a short summary of what I do professionally (also, check out [my resume](
 - DevOps & Data Platforms:
   - Databricks, AWS(S3, EC2, EMR, Athena, Redshift) , HortonWorks, Cloudera 
   - Docker, Airflow, MlFlow
-  - MLflow, ,
-  - AWS Suite (S3, EC2, Athena, Flink), Heroku,
+  - Jenkins, SBT, SVN, GIT
 - Machine Learning & Data Science:
   - pandas, tensorflow / keras, scikit-learn mainly for supervised learning
-  - visulization: plotly, DASH, Streamlit, ggplot, seaborn, D3
-  - JavaScript for serving ML models and custom visualisation (project in progress).
-- Embedded devices ( Yes, I can blink the <span class="blinking">&#9673;</span> LED and more ):
-  - connected sensor networks, embedded &harr; cloud interfaces,
-  - embedded C / C++, bootloader (U-Boot), e.g. OTA Software Update systems or camera interfaces,
-  - basic VHDL/Verilog on Xilinx and Altera, including SoC drivers and DMAs,
-  - basic electrical measurements (Oscilloscope, Logic Analyzer) & PCB debugging.
-
+  - visulization: Tableau, plotly, DASH, Streamlit, ggplot, seaborn, D3
+- GIS tools
+  - GeoPandas, GeoSpark GeoMesa, shapely
+  - RasterFrames, Datashader, Mapbox
+  - PostGIS, QGIS 
 
 
 <p style='text-align: justify;'> 
-... and many more. I'm used to wearing many hats, and just doing what's needed at the moment, and learning on the job. Speaking about that: I &#x2764; learning new things, as well as  <a href="teaching/">teaching</a> and <a href="talks/">talking</a> about them. 
+... and many more. I'm used to collaborating with multiple teams, wearing many hats and learning on the job. I &#x2764; learning new things, keep myself aware of the latest in technology. 
 <br>
 <br>
-At work I can speak English, Polish and ~French. After work, I can (sometimes) succeed to communiate in basic German, Italian, Russian. I am currently learning Chinese and JavaScript.
+I can speak English, Hindi and Tamil. I am currently learning Kanada, Go and Kubernetes.
 <br>
 </p> 
 
